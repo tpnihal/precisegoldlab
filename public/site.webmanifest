@@ -1,0 +1,28 @@
+{
+  "name": "Precise Gold Laboratory L.L.C.",
+  "short_name": "Precise Gold Lab",
+  "description": "Fire assay gold testing in Dubai Gold Souq. Certified gold purity tests for jewelry, bullion, coins and scrap gold, plus trusted scrap gold buying.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#050505",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/maskable-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

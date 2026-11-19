@@ -1,0 +1,67 @@
+# Precise Gold Laboratory L.L.C. — Hostinger Apache Configuration (.htaccess)
+# Prerendered static multi-page architecture (vite-react-ssg)
+
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteBase /
+
+  # 1. Force HTTPS
+  RewriteCond %{HTTPS} !=on
+  RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+  # 2. Canonical non-www (redirect www.precisegoldlab.com -> precisegoldlab.com)
+  RewriteCond %{HTTP_HOST} ^www\.precisegoldlab\.com$ [NC]
+  RewriteRule ^ https://precisegoldlab.com%{REQUEST_URI} [L,R=301]
+
+  # 3. Legacy WordPress 301 Redirects to preserve SEO equity
+  RewriteRule ^wp-content/uploads/2025/07/Precise-Flyer\.pdf$ /assets/precise-gold-lab-catalogue.pdf [L,R=301,NC]
+  RewriteRule ^about-us/?$ /#about [L,R=301,NE,NC]
+  RewriteRule ^services/?$ /#services [L,R=301,NE,NC]
+  RewriteRule ^contact-us/?$ /#contact [L,R=301,NE,NC]
+  RewriteRule ^process/?$ /#process [L,R=301,NE,NC]
+  RewriteRule ^gallery/?$ /#gallery [L,R=301,NE,NC]
+
+  # 4. Serve directory index.html cleanly without a catch-all SPA rewrite
+  DirectoryIndex index.html
+</IfModule>
+
+# 5. Custom 404 Page (returns real HTTP 404 status code)
+ErrorDocument 404 /404.html
+
+# 6. Proper MIME types for modern media & fonts
+<IfModule mod_mime.c>
+  AddType video/mp4 .mp4
+  AddType video/webm .webm
+  AddType image/avif .avif
+  AddType image/webp .webp
+  AddType font/woff2 .woff2
+  AddType application/manifest+json .webmanifest
+  AddType application/rss+xml .xml
+</IfModule>
+
+# 7. Compression (Brotli + Gzip/Deflate)
+<IfModule mod_brotli.c>
+  AddOutputFilterByType BROTLI_COMPRESS text/html text/plain text/xml text/css application/javascript application/json image/svg+xml application/manifest+json application/rss+xml
+</IfModule>
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/plain text/xml text/css application/javascript application/json image/svg+xml application/manifest+json application/rss+xml
+</IfModule>
+
+# 8. Cache-Control Policies (1 year immutable for hashed assets, short cache for HTML)
+<IfModule mod_headers.c>
+  # Security Headers
+  Header always set X-Content-Type-Options "nosniff"
+  Header always set X-Frame-Options "SAMEORIGIN"
+  Header always set Referrer-Policy "strict-origin-when-cross-origin"
+  Header always set Permissions-Policy "camera=(), microphone=(), geolocation=(self)"
+
+  # Immutable hashed build assets (/assets/*)
+  <FilesMatch "\.(js|css|woff2|avif|webp|jpg|jpeg|png|svg|mp4|webm|pdf)$">
+    Header set Cache-Control "public, max-age=31536000, immutable"
+  </FilesMatch>
+
+  # HTML documents, Sitemap & RSS: revalidate quickly on deploy
+  <FilesMatch "\.(html|xml|txt|webmanifest)$">
+    Header set Cache-Control "public, max-age=300, must-revalidate"
+  </FilesMatch>
+</IfModule>

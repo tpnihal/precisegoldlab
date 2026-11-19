@@ -1,0 +1,773 @@
+{
+  "_motion-Dj3hOqIz.js": {
+    "file": "assets/motion-Dj3hOqIz.js",
+    "name": "motion",
+    "imports": [
+      "_react-Cx7QvzfE.js"
+    ]
+  },
+  "_react-Cx7QvzfE.js": {
+    "file": "assets/react-Cx7QvzfE.js",
+    "name": "react",
+    "isDynamicEntry": true
+  },
+  "_router-CLfmIJgN.js": {
+    "file": "assets/router-CLfmIJgN.js",
+    "name": "router",
+    "imports": [
+      "_react-Cx7QvzfE.js"
+    ]
+  },
+  "index.html": {
+    "file": "assets/app-B9wUnAhG.js",
+    "name": "app",
+    "src": "index.html",
+    "isEntry": true,
+    "imports": [
+      "_react-Cx7QvzfE.js",
+      "_router-CLfmIJgN.js",
+      "_motion-Dj3hOqIz.js"
+    ],
+    "dynamicImports": [
+      "_react-Cx7QvzfE.js",
+      "_react-Cx7QvzfE.js",
+      "node_modules/lenis/dist/lenis.mjs"
+    ],
+    "css": [
+      "assets/app-BZEpMfTG.css"
+    ],
+    "assets": [
+      "assets/fire-assay-equipment-room-1024-Dww-rchr.avif",
+      "assets/fire-assay-equipment-room-1024-BVRNzRww.webp",
+      "assets/fire-assay-equipment-room-480-5yLYG9CC.avif",
+      "assets/fire-assay-equipment-room-480-DiJt9D1_.webp",
+      "assets/fire-assay-equipment-room-800-BAU5VVq3.avif",
+      "assets/fire-assay-equipment-room-800-fR_7rged.jpg",
+      "assets/fire-assay-equipment-room-800-DZaDy_rT.webp",
+      "assets/fire-assay-flyer-480-DcDTa4kO.avif",
+      "assets/fire-assay-flyer-480-B1g13_JC.webp",
+      "assets/fire-assay-flyer-776-8H22BAuS.avif",
+      "assets/fire-assay-flyer-776-DMwf8ckm.jpg",
+      "assets/fire-assay-flyer-776-QbQ01NwR.webp",
+      "assets/gold-bar-weighing-scale-480-D3MdGBMl.avif",
+      "assets/gold-bar-weighing-scale-480-DU0EmvCg.webp",
+      "assets/gold-bar-weighing-scale-800-BJXD5Gbh.avif",
+      "assets/gold-bar-weighing-scale-800-gPUG0zrz.jpg",
+      "assets/gold-bar-weighing-scale-800-T3MQnKj6.webp",
+      "assets/gold-bar-weighing-scale-960-BHWHFtMP.avif",
+      "assets/gold-bar-weighing-scale-960-0cZ4SVo-.webp",
+      "assets/gold-solution-flasks-1024-BsT-5xlo.avif",
+      "assets/gold-solution-flasks-1024-DeQD5myI.webp",
+      "assets/gold-solution-flasks-480-BPhsE3bO.avif",
+      "assets/gold-solution-flasks-480-CLZV7nIP.webp",
+      "assets/gold-solution-flasks-800-D_r7QYEx.avif",
+      "assets/gold-solution-flasks-800-BH0BYDwM.jpg",
+      "assets/gold-solution-flasks-800-DeU75YFM.webp",
+      "assets/hero-poster-fire-assay-reel-576-D3bc64Yi.avif",
+      "assets/hero-poster-fire-assay-reel-576-Czu2p9oA.jpg",
+      "assets/hero-poster-fire-assay-reel-576-Cq-pOzcv.webp",
+      "assets/hero-poster-lab-walkthrough-464-BVhPv_vR.avif",
+      "assets/hero-poster-lab-walkthrough-464-DvnarkUx.jpg",
+      "assets/hero-poster-lab-walkthrough-464-ChIEiAL0.webp",
+      "assets/lab-flasks-logo-wall-480-BLJzS15z.avif",
+      "assets/lab-flasks-logo-wall-480-B8Cw1u6u.webp",
+      "assets/lab-flasks-logo-wall-681-DbaYD-BY.avif",
+      "assets/lab-flasks-logo-wall-681-BJru0bgJ.jpg",
+      "assets/lab-flasks-logo-wall-681-BbNwTncb.webp",
+      "assets/placeholder-cash-payout-800-C8PfaJuW.avif",
+      "assets/placeholder-cash-payout-800-28cSpsld.jpg",
+      "assets/placeholder-cash-payout-800-C8axOkjp.webp",
+      "assets/placeholder-scrap-gold-800-CHDsjhm_.avif",
+      "assets/placeholder-scrap-gold-800-Bmf82dRg.jpg",
+      "assets/placeholder-scrap-gold-800-BnbkFOK2.webp",
+      "assets/precise-cast-gold-bar-480-BUGSCs9z.avif",
+      "assets/precise-cast-gold-bar-480-CWLI6R2C.webp",
+      "assets/precise-cast-gold-bar-768-C_sg2UF4.avif",
+      "assets/precise-cast-gold-bar-768-41Yhfv2w.jpg",
+      "assets/precise-cast-gold-bar-768-Bc0iSsGw.webp",
+      "assets/precision-balance-gold-cornets-1024-MK0pdAhI.avif",
+      "assets/precision-balance-gold-cornets-1024-7cjR-wVv.webp",
+      "assets/precision-balance-gold-cornets-480-D1SIcrvI.avif",
+      "assets/precision-balance-gold-cornets-480-0RC6ucad.webp",
+      "assets/precision-balance-gold-cornets-800-CPQCDRnE.avif",
+      "assets/precision-balance-gold-cornets-800-VDZQz_Vw.jpg",
+      "assets/precision-balance-gold-cornets-800-CwMsI5U3.webp",
+      "assets/reception-counter-480-BS_APTAY.avif",
+      "assets/reception-counter-480-V6edpMkz.webp",
+      "assets/reception-counter-800-DYWgBiSC.avif",
+      "assets/reception-counter-800-CdYHtU2M.jpg",
+      "assets/reception-counter-800-BodbHEBs.webp",
+      "assets/reception-counter-960-DoeIFGHN.avif",
+      "assets/reception-counter-960-VApO-HLr.webp",
+      "assets/reception-logo-wall-gold-bar-408-C8uP5ySN.avif",
+      "assets/reception-logo-wall-gold-bar-408-CwebqpUj.jpg",
+      "assets/reception-logo-wall-gold-bar-408-PanAtfrI.webp",
+      "assets/regal-sky-logo-240-DOa0z-vz.avif",
+      "assets/regal-sky-logo-240-B3J6Xm3X.webp",
+      "assets/regal-sky-logo-480-Cyqx4Y9m.avif",
+      "assets/regal-sky-logo-480-NHEHwT91.png",
+      "assets/regal-sky-logo-480-CerDVXhE.webp",
+      "assets/regal-sky-showroom-gold-bars-480-CDiITBQr.avif",
+      "assets/regal-sky-showroom-gold-bars-480-DVfnc2Wv.webp",
+      "assets/regal-sky-showroom-gold-bars-768-Bh1N6GCn.avif",
+      "assets/regal-sky-showroom-gold-bars-768-B3m6q7sp.jpg",
+      "assets/regal-sky-showroom-gold-bars-768-CKv6NxF8.webp",
+      "assets/studio-bento-furnace-600-U-SL58Cj.avif",
+      "assets/studio-bento-furnace-600-B9M1L3tI.webp",
+      "assets/studio-bento-furnace-800-B3tMcabk.avif",
+      "assets/studio-bento-furnace-800-8ZrZ_hc-.jpg",
+      "assets/studio-bento-furnace-800-CZwLwjhK.webp",
+      "assets/studio-bullion-vault-480-BbM2TC8u.avif",
+      "assets/studio-bullion-vault-480-Dm5mmwgr.webp",
+      "assets/studio-bullion-vault-768-hSol5VWr.avif",
+      "assets/studio-bullion-vault-768-BJYI786Q.jpg",
+      "assets/studio-bullion-vault-768-BwZV32nZ.webp",
+      "assets/studio-gold-settlement-600-B3_bhEpd.avif",
+      "assets/studio-gold-settlement-600-Cnwef2ri.webp",
+      "assets/studio-gold-settlement-800-BgUMCARA.avif",
+      "assets/studio-gold-settlement-800-BNUarysc.jpg",
+      "assets/studio-gold-settlement-800-DQ8OGbw7.webp",
+      "assets/studio-hero-bullion-1280-HlEoN22X.avif",
+      "assets/studio-hero-bullion-1280-DMhRpSVw.webp",
+      "assets/studio-hero-bullion-800-ugPUSIGO.avif",
+      "assets/studio-hero-bullion-800-9iXZQAQ4.jpg",
+      "assets/studio-hero-bullion-800-8QW9Gm7K.webp",
+      "assets/studio-hero-crucible-1280-Baux-evt.avif",
+      "assets/studio-hero-crucible-1280-DGUu7dtE.webp",
+      "assets/studio-hero-crucible-800-CR7o9sb_.avif",
+      "assets/studio-hero-crucible-800-8KZHyguo.jpg",
+      "assets/studio-hero-crucible-800-CSH34hL7.webp",
+      "assets/studio-regal-sky-atrium-600-D_4tEsue.avif",
+      "assets/studio-regal-sky-atrium-600-dCyWPT5W.jpg",
+      "assets/studio-regal-sky-atrium-600-Bx-okMW6.webp",
+      "assets/studio-regal-sky-atrium-960-CyWM7E_E.avif",
+      "assets/studio-regal-sky-atrium-960-Bdz27kY9.webp",
+      "assets/studio-scale-bullion-600-DF1tOp4i.avif",
+      "assets/studio-scale-bullion-600-B0IH44gp.webp",
+      "assets/studio-scale-bullion-800-Dz1oRpui.avif",
+      "assets/studio-scale-bullion-800-BnfR7voy.jpg",
+      "assets/studio-scale-bullion-800-BlhjrSyY.webp",
+      "assets/studio-scrap-jewelry-600-BypgLSZz.avif",
+      "assets/studio-scrap-jewelry-600-BiegvR6E.webp",
+      "assets/studio-scrap-jewelry-800-Ce6AXiKU.avif",
+      "assets/studio-scrap-jewelry-800-B4NQw-vT.jpg",
+      "assets/studio-scrap-jewelry-800-DyctGDQC.webp",
+      "assets/studio-scrap-melt-600-CoLybKHP.avif",
+      "assets/studio-scrap-melt-600-C2vm9nAq.webp",
+      "assets/studio-scrap-melt-800-DVipsZgp.avif",
+      "assets/studio-scrap-melt-800-DmWTNqx4.jpg",
+      "assets/studio-scrap-melt-800-XT9O5_rc.webp",
+      "assets/studio-step-certificate-600-CizSkXsB.avif",
+      "assets/studio-step-certificate-600-DB-1aXP2.jpg",
+      "assets/studio-step-certificate-600-DN_FNTmX.webp",
+      "assets/studio-step-certificate-960-DeRhtmgc.avif",
+      "assets/studio-step-certificate-960-C2uLSi7_.webp",
+      "assets/studio-step-cupellation-600-BQMuoUDT.avif",
+      "assets/studio-step-cupellation-600-DM4WnQaq.jpg",
+      "assets/studio-step-cupellation-600-Br4LYnof.webp",
+      "assets/studio-step-cupellation-960-BLlATsVn.avif",
+      "assets/studio-step-cupellation-960-B3hdPj6I.webp",
+      "assets/studio-step-induction-600-Zu-Ty4pY.avif",
+      "assets/studio-step-induction-600-Bx5TWBe8.jpg",
+      "assets/studio-step-induction-600-CkRjvC0f.webp",
+      "assets/studio-step-induction-960-BtjWdzMP.avif",
+      "assets/studio-step-induction-960-zdftzXxU.webp",
+      "assets/studio-step-parting-600-BvbD3RqA.avif",
+      "assets/studio-step-parting-600-BguPGNn-.jpg",
+      "assets/studio-step-parting-600-Cza3LgMQ.webp",
+      "assets/studio-step-parting-960-xBFdhJIf.avif",
+      "assets/studio-step-parting-960-CQg5gpm7.webp",
+      "assets/studio-step-weighing-600-Cho8bvWo.avif",
+      "assets/studio-step-weighing-600-QHzJlu4L.jpg",
+      "assets/studio-step-weighing-600-DG9nfqw6.webp",
+      "assets/studio-step-weighing-960-B_pbaR59.avif",
+      "assets/studio-step-weighing-960-CgtdZzbP.webp"
+    ]
+  },
+  "node_modules/lenis/dist/lenis.mjs": {
+    "file": "assets/lenis-D7WtCpOK.js",
+    "name": "lenis",
+    "src": "node_modules/lenis/dist/lenis.mjs",
+    "isDynamicEntry": true
+  },
+  "src/assets/images/generated/fire-assay-equipment-room-1024.avif": {
+    "file": "assets/fire-assay-equipment-room-1024-Dww-rchr.avif",
+    "src": "src/assets/images/generated/fire-assay-equipment-room-1024.avif"
+  },
+  "src/assets/images/generated/fire-assay-equipment-room-1024.webp": {
+    "file": "assets/fire-assay-equipment-room-1024-BVRNzRww.webp",
+    "src": "src/assets/images/generated/fire-assay-equipment-room-1024.webp"
+  },
+  "src/assets/images/generated/fire-assay-equipment-room-480.avif": {
+    "file": "assets/fire-assay-equipment-room-480-5yLYG9CC.avif",
+    "src": "src/assets/images/generated/fire-assay-equipment-room-480.avif"
+  },
+  "src/assets/images/generated/fire-assay-equipment-room-480.webp": {
+    "file": "assets/fire-assay-equipment-room-480-DiJt9D1_.webp",
+    "src": "src/assets/images/generated/fire-assay-equipment-room-480.webp"
+  },
+  "src/assets/images/generated/fire-assay-equipment-room-800.avif": {
+    "file": "assets/fire-assay-equipment-room-800-BAU5VVq3.avif",
+    "src": "src/assets/images/generated/fire-assay-equipment-room-800.avif"
+  },
+  "src/assets/images/generated/fire-assay-equipment-room-800.jpg": {
+    "file": "assets/fire-assay-equipment-room-800-fR_7rged.jpg",
+    "src": "src/assets/images/generated/fire-assay-equipment-room-800.jpg"
+  },
+  "src/assets/images/generated/fire-assay-equipment-room-800.webp": {
+    "file": "assets/fire-assay-equipment-room-800-DZaDy_rT.webp",
+    "src": "src/assets/images/generated/fire-assay-equipment-room-800.webp"
+  },
+  "src/assets/images/generated/fire-assay-flyer-480.avif": {
+    "file": "assets/fire-assay-flyer-480-DcDTa4kO.avif",
+    "src": "src/assets/images/generated/fire-assay-flyer-480.avif"
+  },
+  "src/assets/images/generated/fire-assay-flyer-480.webp": {
+    "file": "assets/fire-assay-flyer-480-B1g13_JC.webp",
+    "src": "src/assets/images/generated/fire-assay-flyer-480.webp"
+  },
+  "src/assets/images/generated/fire-assay-flyer-776.avif": {
+    "file": "assets/fire-assay-flyer-776-8H22BAuS.avif",
+    "src": "src/assets/images/generated/fire-assay-flyer-776.avif"
+  },
+  "src/assets/images/generated/fire-assay-flyer-776.jpg": {
+    "file": "assets/fire-assay-flyer-776-DMwf8ckm.jpg",
+    "src": "src/assets/images/generated/fire-assay-flyer-776.jpg"
+  },
+  "src/assets/images/generated/fire-assay-flyer-776.webp": {
+    "file": "assets/fire-assay-flyer-776-QbQ01NwR.webp",
+    "src": "src/assets/images/generated/fire-assay-flyer-776.webp"
+  },
+  "src/assets/images/generated/gold-bar-weighing-scale-480.avif": {
+    "file": "assets/gold-bar-weighing-scale-480-D3MdGBMl.avif",
+    "src": "src/assets/images/generated/gold-bar-weighing-scale-480.avif"
+  },
+  "src/assets/images/generated/gold-bar-weighing-scale-480.webp": {
+    "file": "assets/gold-bar-weighing-scale-480-DU0EmvCg.webp",
+    "src": "src/assets/images/generated/gold-bar-weighing-scale-480.webp"
+  },
+  "src/assets/images/generated/gold-bar-weighing-scale-800.avif": {
+    "file": "assets/gold-bar-weighing-scale-800-BJXD5Gbh.avif",
+    "src": "src/assets/images/generated/gold-bar-weighing-scale-800.avif"
+  },
+  "src/assets/images/generated/gold-bar-weighing-scale-800.jpg": {
+    "file": "assets/gold-bar-weighing-scale-800-gPUG0zrz.jpg",
+    "src": "src/assets/images/generated/gold-bar-weighing-scale-800.jpg"
+  },
+  "src/assets/images/generated/gold-bar-weighing-scale-800.webp": {
+    "file": "assets/gold-bar-weighing-scale-800-T3MQnKj6.webp",
+    "src": "src/assets/images/generated/gold-bar-weighing-scale-800.webp"
+  },
+  "src/assets/images/generated/gold-bar-weighing-scale-960.avif": {
+    "file": "assets/gold-bar-weighing-scale-960-BHWHFtMP.avif",
+    "src": "src/assets/images/generated/gold-bar-weighing-scale-960.avif"
+  },
+  "src/assets/images/generated/gold-bar-weighing-scale-960.webp": {
+    "file": "assets/gold-bar-weighing-scale-960-0cZ4SVo-.webp",
+    "src": "src/assets/images/generated/gold-bar-weighing-scale-960.webp"
+  },
+  "src/assets/images/generated/gold-solution-flasks-1024.avif": {
+    "file": "assets/gold-solution-flasks-1024-BsT-5xlo.avif",
+    "src": "src/assets/images/generated/gold-solution-flasks-1024.avif"
+  },
+  "src/assets/images/generated/gold-solution-flasks-1024.webp": {
+    "file": "assets/gold-solution-flasks-1024-DeQD5myI.webp",
+    "src": "src/assets/images/generated/gold-solution-flasks-1024.webp"
+  },
+  "src/assets/images/generated/gold-solution-flasks-480.avif": {
+    "file": "assets/gold-solution-flasks-480-BPhsE3bO.avif",
+    "src": "src/assets/images/generated/gold-solution-flasks-480.avif"
+  },
+  "src/assets/images/generated/gold-solution-flasks-480.webp": {
+    "file": "assets/gold-solution-flasks-480-CLZV7nIP.webp",
+    "src": "src/assets/images/generated/gold-solution-flasks-480.webp"
+  },
+  "src/assets/images/generated/gold-solution-flasks-800.avif": {
+    "file": "assets/gold-solution-flasks-800-D_r7QYEx.avif",
+    "src": "src/assets/images/generated/gold-solution-flasks-800.avif"
+  },
+  "src/assets/images/generated/gold-solution-flasks-800.jpg": {
+    "file": "assets/gold-solution-flasks-800-BH0BYDwM.jpg",
+    "src": "src/assets/images/generated/gold-solution-flasks-800.jpg"
+  },
+  "src/assets/images/generated/gold-solution-flasks-800.webp": {
+    "file": "assets/gold-solution-flasks-800-DeU75YFM.webp",
+    "src": "src/assets/images/generated/gold-solution-flasks-800.webp"
+  },
+  "src/assets/images/generated/hero-poster-fire-assay-reel-576.avif": {
+    "file": "assets/hero-poster-fire-assay-reel-576-D3bc64Yi.avif",
+    "src": "src/assets/images/generated/hero-poster-fire-assay-reel-576.avif"
+  },
+  "src/assets/images/generated/hero-poster-fire-assay-reel-576.jpg": {
+    "file": "assets/hero-poster-fire-assay-reel-576-Czu2p9oA.jpg",
+    "src": "src/assets/images/generated/hero-poster-fire-assay-reel-576.jpg"
+  },
+  "src/assets/images/generated/hero-poster-fire-assay-reel-576.webp": {
+    "file": "assets/hero-poster-fire-assay-reel-576-Cq-pOzcv.webp",
+    "src": "src/assets/images/generated/hero-poster-fire-assay-reel-576.webp"
+  },
+  "src/assets/images/generated/hero-poster-lab-walkthrough-464.avif": {
+    "file": "assets/hero-poster-lab-walkthrough-464-BVhPv_vR.avif",
+    "src": "src/assets/images/generated/hero-poster-lab-walkthrough-464.avif"
+  },
+  "src/assets/images/generated/hero-poster-lab-walkthrough-464.jpg": {
+    "file": "assets/hero-poster-lab-walkthrough-464-DvnarkUx.jpg",
+    "src": "src/assets/images/generated/hero-poster-lab-walkthrough-464.jpg"
+  },
+  "src/assets/images/generated/hero-poster-lab-walkthrough-464.webp": {
+    "file": "assets/hero-poster-lab-walkthrough-464-ChIEiAL0.webp",
+    "src": "src/assets/images/generated/hero-poster-lab-walkthrough-464.webp"
+  },
+  "src/assets/images/generated/lab-flasks-logo-wall-480.avif": {
+    "file": "assets/lab-flasks-logo-wall-480-BLJzS15z.avif",
+    "src": "src/assets/images/generated/lab-flasks-logo-wall-480.avif"
+  },
+  "src/assets/images/generated/lab-flasks-logo-wall-480.webp": {
+    "file": "assets/lab-flasks-logo-wall-480-B8Cw1u6u.webp",
+    "src": "src/assets/images/generated/lab-flasks-logo-wall-480.webp"
+  },
+  "src/assets/images/generated/lab-flasks-logo-wall-681.avif": {
+    "file": "assets/lab-flasks-logo-wall-681-DbaYD-BY.avif",
+    "src": "src/assets/images/generated/lab-flasks-logo-wall-681.avif"
+  },
+  "src/assets/images/generated/lab-flasks-logo-wall-681.jpg": {
+    "file": "assets/lab-flasks-logo-wall-681-BJru0bgJ.jpg",
+    "src": "src/assets/images/generated/lab-flasks-logo-wall-681.jpg"
+  },
+  "src/assets/images/generated/lab-flasks-logo-wall-681.webp": {
+    "file": "assets/lab-flasks-logo-wall-681-BbNwTncb.webp",
+    "src": "src/assets/images/generated/lab-flasks-logo-wall-681.webp"
+  },
+  "src/assets/images/generated/placeholder-cash-payout-800.avif": {
+    "file": "assets/placeholder-cash-payout-800-C8PfaJuW.avif",
+    "src": "src/assets/images/generated/placeholder-cash-payout-800.avif"
+  },
+  "src/assets/images/generated/placeholder-cash-payout-800.jpg": {
+    "file": "assets/placeholder-cash-payout-800-28cSpsld.jpg",
+    "src": "src/assets/images/generated/placeholder-cash-payout-800.jpg"
+  },
+  "src/assets/images/generated/placeholder-cash-payout-800.webp": {
+    "file": "assets/placeholder-cash-payout-800-C8axOkjp.webp",
+    "src": "src/assets/images/generated/placeholder-cash-payout-800.webp"
+  },
+  "src/assets/images/generated/placeholder-scrap-gold-800.avif": {
+    "file": "assets/placeholder-scrap-gold-800-CHDsjhm_.avif",
+    "src": "src/assets/images/generated/placeholder-scrap-gold-800.avif"
+  },
+  "src/assets/images/generated/placeholder-scrap-gold-800.jpg": {
+    "file": "assets/placeholder-scrap-gold-800-Bmf82dRg.jpg",
+    "src": "src/assets/images/generated/placeholder-scrap-gold-800.jpg"
+  },
+  "src/assets/images/generated/placeholder-scrap-gold-800.webp": {
+    "file": "assets/placeholder-scrap-gold-800-BnbkFOK2.webp",
+    "src": "src/assets/images/generated/placeholder-scrap-gold-800.webp"
+  },
+  "src/assets/images/generated/precise-cast-gold-bar-480.avif": {
+    "file": "assets/precise-cast-gold-bar-480-BUGSCs9z.avif",
+    "src": "src/assets/images/generated/precise-cast-gold-bar-480.avif"
+  },
+  "src/assets/images/generated/precise-cast-gold-bar-480.webp": {
+    "file": "assets/precise-cast-gold-bar-480-CWLI6R2C.webp",
+    "src": "src/assets/images/generated/precise-cast-gold-bar-480.webp"
+  },
+  "src/assets/images/generated/precise-cast-gold-bar-768.avif": {
+    "file": "assets/precise-cast-gold-bar-768-C_sg2UF4.avif",
+    "src": "src/assets/images/generated/precise-cast-gold-bar-768.avif"
+  },
+  "src/assets/images/generated/precise-cast-gold-bar-768.jpg": {
+    "file": "assets/precise-cast-gold-bar-768-41Yhfv2w.jpg",
+    "src": "src/assets/images/generated/precise-cast-gold-bar-768.jpg"
+  },
+  "src/assets/images/generated/precise-cast-gold-bar-768.webp": {
+    "file": "assets/precise-cast-gold-bar-768-Bc0iSsGw.webp",
+    "src": "src/assets/images/generated/precise-cast-gold-bar-768.webp"
+  },
+  "src/assets/images/generated/precision-balance-gold-cornets-1024.avif": {
+    "file": "assets/precision-balance-gold-cornets-1024-MK0pdAhI.avif",
+    "src": "src/assets/images/generated/precision-balance-gold-cornets-1024.avif"
+  },
+  "src/assets/images/generated/precision-balance-gold-cornets-1024.webp": {
+    "file": "assets/precision-balance-gold-cornets-1024-7cjR-wVv.webp",
+    "src": "src/assets/images/generated/precision-balance-gold-cornets-1024.webp"
+  },
+  "src/assets/images/generated/precision-balance-gold-cornets-480.avif": {
+    "file": "assets/precision-balance-gold-cornets-480-D1SIcrvI.avif",
+    "src": "src/assets/images/generated/precision-balance-gold-cornets-480.avif"
+  },
+  "src/assets/images/generated/precision-balance-gold-cornets-480.webp": {
+    "file": "assets/precision-balance-gold-cornets-480-0RC6ucad.webp",
+    "src": "src/assets/images/generated/precision-balance-gold-cornets-480.webp"
+  },
+  "src/assets/images/generated/precision-balance-gold-cornets-800.avif": {
+    "file": "assets/precision-balance-gold-cornets-800-CPQCDRnE.avif",
+    "src": "src/assets/images/generated/precision-balance-gold-cornets-800.avif"
+  },
+  "src/assets/images/generated/precision-balance-gold-cornets-800.jpg": {
+    "file": "assets/precision-balance-gold-cornets-800-VDZQz_Vw.jpg",
+    "src": "src/assets/images/generated/precision-balance-gold-cornets-800.jpg"
+  },
+  "src/assets/images/generated/precision-balance-gold-cornets-800.webp": {
+    "file": "assets/precision-balance-gold-cornets-800-CwMsI5U3.webp",
+    "src": "src/assets/images/generated/precision-balance-gold-cornets-800.webp"
+  },
+  "src/assets/images/generated/reception-counter-480.avif": {
+    "file": "assets/reception-counter-480-BS_APTAY.avif",
+    "src": "src/assets/images/generated/reception-counter-480.avif"
+  },
+  "src/assets/images/generated/reception-counter-480.webp": {
+    "file": "assets/reception-counter-480-V6edpMkz.webp",
+    "src": "src/assets/images/generated/reception-counter-480.webp"
+  },
+  "src/assets/images/generated/reception-counter-800.avif": {
+    "file": "assets/reception-counter-800-DYWgBiSC.avif",
+    "src": "src/assets/images/generated/reception-counter-800.avif"
+  },
+  "src/assets/images/generated/reception-counter-800.jpg": {
+    "file": "assets/reception-counter-800-CdYHtU2M.jpg",
+    "src": "src/assets/images/generated/reception-counter-800.jpg"
+  },
+  "src/assets/images/generated/reception-counter-800.webp": {
+    "file": "assets/reception-counter-800-BodbHEBs.webp",
+    "src": "src/assets/images/generated/reception-counter-800.webp"
+  },
+  "src/assets/images/generated/reception-counter-960.avif": {
+    "file": "assets/reception-counter-960-DoeIFGHN.avif",
+    "src": "src/assets/images/generated/reception-counter-960.avif"
+  },
+  "src/assets/images/generated/reception-counter-960.webp": {
+    "file": "assets/reception-counter-960-VApO-HLr.webp",
+    "src": "src/assets/images/generated/reception-counter-960.webp"
+  },
+  "src/assets/images/generated/reception-logo-wall-gold-bar-408.avif": {
+    "file": "assets/reception-logo-wall-gold-bar-408-C8uP5ySN.avif",
+    "src": "src/assets/images/generated/reception-logo-wall-gold-bar-408.avif"
+  },
+  "src/assets/images/generated/reception-logo-wall-gold-bar-408.jpg": {
+    "file": "assets/reception-logo-wall-gold-bar-408-CwebqpUj.jpg",
+    "src": "src/assets/images/generated/reception-logo-wall-gold-bar-408.jpg"
+  },
+  "src/assets/images/generated/reception-logo-wall-gold-bar-408.webp": {
+    "file": "assets/reception-logo-wall-gold-bar-408-PanAtfrI.webp",
+    "src": "src/assets/images/generated/reception-logo-wall-gold-bar-408.webp"
+  },
+  "src/assets/images/generated/regal-sky-logo-240.avif": {
+    "file": "assets/regal-sky-logo-240-DOa0z-vz.avif",
+    "src": "src/assets/images/generated/regal-sky-logo-240.avif"
+  },
+  "src/assets/images/generated/regal-sky-logo-240.webp": {
+    "file": "assets/regal-sky-logo-240-B3J6Xm3X.webp",
+    "src": "src/assets/images/generated/regal-sky-logo-240.webp"
+  },
+  "src/assets/images/generated/regal-sky-logo-480.avif": {
+    "file": "assets/regal-sky-logo-480-Cyqx4Y9m.avif",
+    "src": "src/assets/images/generated/regal-sky-logo-480.avif"
+  },
+  "src/assets/images/generated/regal-sky-logo-480.png": {
+    "file": "assets/regal-sky-logo-480-NHEHwT91.png",
+    "src": "src/assets/images/generated/regal-sky-logo-480.png"
+  },
+  "src/assets/images/generated/regal-sky-logo-480.webp": {
+    "file": "assets/regal-sky-logo-480-CerDVXhE.webp",
+    "src": "src/assets/images/generated/regal-sky-logo-480.webp"
+  },
+  "src/assets/images/generated/regal-sky-showroom-gold-bars-480.avif": {
+    "file": "assets/regal-sky-showroom-gold-bars-480-CDiITBQr.avif",
+    "src": "src/assets/images/generated/regal-sky-showroom-gold-bars-480.avif"
+  },
+  "src/assets/images/generated/regal-sky-showroom-gold-bars-480.webp": {
+    "file": "assets/regal-sky-showroom-gold-bars-480-DVfnc2Wv.webp",
+    "src": "src/assets/images/generated/regal-sky-showroom-gold-bars-480.webp"
+  },
+  "src/assets/images/generated/regal-sky-showroom-gold-bars-768.avif": {
+    "file": "assets/regal-sky-showroom-gold-bars-768-Bh1N6GCn.avif",
+    "src": "src/assets/images/generated/regal-sky-showroom-gold-bars-768.avif"
+  },
+  "src/assets/images/generated/regal-sky-showroom-gold-bars-768.jpg": {
+    "file": "assets/regal-sky-showroom-gold-bars-768-B3m6q7sp.jpg",
+    "src": "src/assets/images/generated/regal-sky-showroom-gold-bars-768.jpg"
+  },
+  "src/assets/images/generated/regal-sky-showroom-gold-bars-768.webp": {
+    "file": "assets/regal-sky-showroom-gold-bars-768-CKv6NxF8.webp",
+    "src": "src/assets/images/generated/regal-sky-showroom-gold-bars-768.webp"
+  },
+  "src/assets/images/generated/studio-bento-furnace-600.avif": {
+    "file": "assets/studio-bento-furnace-600-U-SL58Cj.avif",
+    "src": "src/assets/images/generated/studio-bento-furnace-600.avif"
+  },
+  "src/assets/images/generated/studio-bento-furnace-600.webp": {
+    "file": "assets/studio-bento-furnace-600-B9M1L3tI.webp",
+    "src": "src/assets/images/generated/studio-bento-furnace-600.webp"
+  },
+  "src/assets/images/generated/studio-bento-furnace-800.avif": {
+    "file": "assets/studio-bento-furnace-800-B3tMcabk.avif",
+    "src": "src/assets/images/generated/studio-bento-furnace-800.avif"
+  },
+  "src/assets/images/generated/studio-bento-furnace-800.jpg": {
+    "file": "assets/studio-bento-furnace-800-8ZrZ_hc-.jpg",
+    "src": "src/assets/images/generated/studio-bento-furnace-800.jpg"
+  },
+  "src/assets/images/generated/studio-bento-furnace-800.webp": {
+    "file": "assets/studio-bento-furnace-800-CZwLwjhK.webp",
+    "src": "src/assets/images/generated/studio-bento-furnace-800.webp"
+  },
+  "src/assets/images/generated/studio-bullion-vault-480.avif": {
+    "file": "assets/studio-bullion-vault-480-BbM2TC8u.avif",
+    "src": "src/assets/images/generated/studio-bullion-vault-480.avif"
+  },
+  "src/assets/images/generated/studio-bullion-vault-480.webp": {
+    "file": "assets/studio-bullion-vault-480-Dm5mmwgr.webp",
+    "src": "src/assets/images/generated/studio-bullion-vault-480.webp"
+  },
+  "src/assets/images/generated/studio-bullion-vault-768.avif": {
+    "file": "assets/studio-bullion-vault-768-hSol5VWr.avif",
+    "src": "src/assets/images/generated/studio-bullion-vault-768.avif"
+  },
+  "src/assets/images/generated/studio-bullion-vault-768.jpg": {
+    "file": "assets/studio-bullion-vault-768-BJYI786Q.jpg",
+    "src": "src/assets/images/generated/studio-bullion-vault-768.jpg"
+  },
+  "src/assets/images/generated/studio-bullion-vault-768.webp": {
+    "file": "assets/studio-bullion-vault-768-BwZV32nZ.webp",
+    "src": "src/assets/images/generated/studio-bullion-vault-768.webp"
+  },
+  "src/assets/images/generated/studio-gold-settlement-600.avif": {
+    "file": "assets/studio-gold-settlement-600-B3_bhEpd.avif",
+    "src": "src/assets/images/generated/studio-gold-settlement-600.avif"
+  },
+  "src/assets/images/generated/studio-gold-settlement-600.webp": {
+    "file": "assets/studio-gold-settlement-600-Cnwef2ri.webp",
+    "src": "src/assets/images/generated/studio-gold-settlement-600.webp"
+  },
+  "src/assets/images/generated/studio-gold-settlement-800.avif": {
+    "file": "assets/studio-gold-settlement-800-BgUMCARA.avif",
+    "src": "src/assets/images/generated/studio-gold-settlement-800.avif"
+  },
+  "src/assets/images/generated/studio-gold-settlement-800.jpg": {
+    "file": "assets/studio-gold-settlement-800-BNUarysc.jpg",
+    "src": "src/assets/images/generated/studio-gold-settlement-800.jpg"
+  },
+  "src/assets/images/generated/studio-gold-settlement-800.webp": {
+    "file": "assets/studio-gold-settlement-800-DQ8OGbw7.webp",
+    "src": "src/assets/images/generated/studio-gold-settlement-800.webp"
+  },
+  "src/assets/images/generated/studio-hero-bullion-1280.avif": {
+    "file": "assets/studio-hero-bullion-1280-HlEoN22X.avif",
+    "src": "src/assets/images/generated/studio-hero-bullion-1280.avif"
+  },
+  "src/assets/images/generated/studio-hero-bullion-1280.webp": {
+    "file": "assets/studio-hero-bullion-1280-DMhRpSVw.webp",
+    "src": "src/assets/images/generated/studio-hero-bullion-1280.webp"
+  },
+  "src/assets/images/generated/studio-hero-bullion-800.avif": {
+    "file": "assets/studio-hero-bullion-800-ugPUSIGO.avif",
+    "src": "src/assets/images/generated/studio-hero-bullion-800.avif"
+  },
+  "src/assets/images/generated/studio-hero-bullion-800.jpg": {
+    "file": "assets/studio-hero-bullion-800-9iXZQAQ4.jpg",
+    "src": "src/assets/images/generated/studio-hero-bullion-800.jpg"
+  },
+  "src/assets/images/generated/studio-hero-bullion-800.webp": {
+    "file": "assets/studio-hero-bullion-800-8QW9Gm7K.webp",
+    "src": "src/assets/images/generated/studio-hero-bullion-800.webp"
+  },
+  "src/assets/images/generated/studio-hero-crucible-1280.avif": {
+    "file": "assets/studio-hero-crucible-1280-Baux-evt.avif",
+    "src": "src/assets/images/generated/studio-hero-crucible-1280.avif"
+  },
+  "src/assets/images/generated/studio-hero-crucible-1280.webp": {
+    "file": "assets/studio-hero-crucible-1280-DGUu7dtE.webp",
+    "src": "src/assets/images/generated/studio-hero-crucible-1280.webp"
+  },
+  "src/assets/images/generated/studio-hero-crucible-800.avif": {
+    "file": "assets/studio-hero-crucible-800-CR7o9sb_.avif",
+    "src": "src/assets/images/generated/studio-hero-crucible-800.avif"
+  },
+  "src/assets/images/generated/studio-hero-crucible-800.jpg": {
+    "file": "assets/studio-hero-crucible-800-8KZHyguo.jpg",
+    "src": "src/assets/images/generated/studio-hero-crucible-800.jpg"
+  },
+  "src/assets/images/generated/studio-hero-crucible-800.webp": {
+    "file": "assets/studio-hero-crucible-800-CSH34hL7.webp",
+    "src": "src/assets/images/generated/studio-hero-crucible-800.webp"
+  },
+  "src/assets/images/generated/studio-regal-sky-atrium-600.avif": {
+    "file": "assets/studio-regal-sky-atrium-600-D_4tEsue.avif",
+    "src": "src/assets/images/generated/studio-regal-sky-atrium-600.avif"
+  },
+  "src/assets/images/generated/studio-regal-sky-atrium-600.jpg": {
+    "file": "assets/studio-regal-sky-atrium-600-dCyWPT5W.jpg",
+    "src": "src/assets/images/generated/studio-regal-sky-atrium-600.jpg"
+  },
+  "src/assets/images/generated/studio-regal-sky-atrium-600.webp": {
+    "file": "assets/studio-regal-sky-atrium-600-Bx-okMW6.webp",
+    "src": "src/assets/images/generated/studio-regal-sky-atrium-600.webp"
+  },
+  "src/assets/images/generated/studio-regal-sky-atrium-960.avif": {
+    "file": "assets/studio-regal-sky-atrium-960-CyWM7E_E.avif",
+    "src": "src/assets/images/generated/studio-regal-sky-atrium-960.avif"
+  },
+  "src/assets/images/generated/studio-regal-sky-atrium-960.webp": {
+    "file": "assets/studio-regal-sky-atrium-960-Bdz27kY9.webp",
+    "src": "src/assets/images/generated/studio-regal-sky-atrium-960.webp"
+  },
+  "src/assets/images/generated/studio-scale-bullion-600.avif": {
+    "file": "assets/studio-scale-bullion-600-DF1tOp4i.avif",
+    "src": "src/assets/images/generated/studio-scale-bullion-600.avif"
+  },
+  "src/assets/images/generated/studio-scale-bullion-600.webp": {
+    "file": "assets/studio-scale-bullion-600-B0IH44gp.webp",
+    "src": "src/assets/images/generated/studio-scale-bullion-600.webp"
+  },
+  "src/assets/images/generated/studio-scale-bullion-800.avif": {
+    "file": "assets/studio-scale-bullion-800-Dz1oRpui.avif",
+    "src": "src/assets/images/generated/studio-scale-bullion-800.avif"
+  },
+  "src/assets/images/generated/studio-scale-bullion-800.jpg": {
+    "file": "assets/studio-scale-bullion-800-BnfR7voy.jpg",
+    "src": "src/assets/images/generated/studio-scale-bullion-800.jpg"
+  },
+  "src/assets/images/generated/studio-scale-bullion-800.webp": {
+    "file": "assets/studio-scale-bullion-800-BlhjrSyY.webp",
+    "src": "src/assets/images/generated/studio-scale-bullion-800.webp"
+  },
+  "src/assets/images/generated/studio-scrap-jewelry-600.avif": {
+    "file": "assets/studio-scrap-jewelry-600-BypgLSZz.avif",
+    "src": "src/assets/images/generated/studio-scrap-jewelry-600.avif"
+  },
+  "src/assets/images/generated/studio-scrap-jewelry-600.webp": {
+    "file": "assets/studio-scrap-jewelry-600-BiegvR6E.webp",
+    "src": "src/assets/images/generated/studio-scrap-jewelry-600.webp"
+  },
+  "src/assets/images/generated/studio-scrap-jewelry-800.avif": {
+    "file": "assets/studio-scrap-jewelry-800-Ce6AXiKU.avif",
+    "src": "src/assets/images/generated/studio-scrap-jewelry-800.avif"
+  },
+  "src/assets/images/generated/studio-scrap-jewelry-800.jpg": {
+    "file": "assets/studio-scrap-jewelry-800-B4NQw-vT.jpg",
+    "src": "src/assets/images/generated/studio-scrap-jewelry-800.jpg"
+  },
+  "src/assets/images/generated/studio-scrap-jewelry-800.webp": {
+    "file": "assets/studio-scrap-jewelry-800-DyctGDQC.webp",
+    "src": "src/assets/images/generated/studio-scrap-jewelry-800.webp"
+  },
+  "src/assets/images/generated/studio-scrap-melt-600.avif": {
+    "file": "assets/studio-scrap-melt-600-CoLybKHP.avif",
+    "src": "src/assets/images/generated/studio-scrap-melt-600.avif"
+  },
+  "src/assets/images/generated/studio-scrap-melt-600.webp": {
+    "file": "assets/studio-scrap-melt-600-C2vm9nAq.webp",
+    "src": "src/assets/images/generated/studio-scrap-melt-600.webp"
+  },
+  "src/assets/images/generated/studio-scrap-melt-800.avif": {
+    "file": "assets/studio-scrap-melt-800-DVipsZgp.avif",
+    "src": "src/assets/images/generated/studio-scrap-melt-800.avif"
+  },
+  "src/assets/images/generated/studio-scrap-melt-800.jpg": {
+    "file": "assets/studio-scrap-melt-800-DmWTNqx4.jpg",
+    "src": "src/assets/images/generated/studio-scrap-melt-800.jpg"
+  },
+  "src/assets/images/generated/studio-scrap-melt-800.webp": {
+    "file": "assets/studio-scrap-melt-800-XT9O5_rc.webp",
+    "src": "src/assets/images/generated/studio-scrap-melt-800.webp"
+  },
+  "src/assets/images/generated/studio-step-certificate-600.avif": {
+    "file": "assets/studio-step-certificate-600-CizSkXsB.avif",
+    "src": "src/assets/images/generated/studio-step-certificate-600.avif"
+  },
+  "src/assets/images/generated/studio-step-certificate-600.jpg": {
+    "file": "assets/studio-step-certificate-600-DB-1aXP2.jpg",
+    "src": "src/assets/images/generated/studio-step-certificate-600.jpg"
+  },
+  "src/assets/images/generated/studio-step-certificate-600.webp": {
+    "file": "assets/studio-step-certificate-600-DN_FNTmX.webp",
+    "src": "src/assets/images/generated/studio-step-certificate-600.webp"
+  },
+  "src/assets/images/generated/studio-step-certificate-960.avif": {
+    "file": "assets/studio-step-certificate-960-DeRhtmgc.avif",
+    "src": "src/assets/images/generated/studio-step-certificate-960.avif"
+  },
+  "src/assets/images/generated/studio-step-certificate-960.webp": {
+    "file": "assets/studio-step-certificate-960-C2uLSi7_.webp",
+    "src": "src/assets/images/generated/studio-step-certificate-960.webp"
+  },
+  "src/assets/images/generated/studio-step-cupellation-600.avif": {
+    "file": "assets/studio-step-cupellation-600-BQMuoUDT.avif",
+    "src": "src/assets/images/generated/studio-step-cupellation-600.avif"
+  },
+  "src/assets/images/generated/studio-step-cupellation-600.jpg": {
+    "file": "assets/studio-step-cupellation-600-DM4WnQaq.jpg",
+    "src": "src/assets/images/generated/studio-step-cupellation-600.jpg"
+  },
+  "src/assets/images/generated/studio-step-cupellation-600.webp": {
+    "file": "assets/studio-step-cupellation-600-Br4LYnof.webp",
+    "src": "src/assets/images/generated/studio-step-cupellation-600.webp"
+  },
+  "src/assets/images/generated/studio-step-cupellation-960.avif": {
+    "file": "assets/studio-step-cupellation-960-BLlATsVn.avif",
+    "src": "src/assets/images/generated/studio-step-cupellation-960.avif"
+  },
+  "src/assets/images/generated/studio-step-cupellation-960.webp": {
+    "file": "assets/studio-step-cupellation-960-B3hdPj6I.webp",
+    "src": "src/assets/images/generated/studio-step-cupellation-960.webp"
+  },
+  "src/assets/images/generated/studio-step-induction-600.avif": {
+    "file": "assets/studio-step-induction-600-Zu-Ty4pY.avif",
+    "src": "src/assets/images/generated/studio-step-induction-600.avif"
+  },
+  "src/assets/images/generated/studio-step-induction-600.jpg": {
+    "file": "assets/studio-step-induction-600-Bx5TWBe8.jpg",
+    "src": "src/assets/images/generated/studio-step-induction-600.jpg"
+  },
+  "src/assets/images/generated/studio-step-induction-600.webp": {
+    "file": "assets/studio-step-induction-600-CkRjvC0f.webp",
+    "src": "src/assets/images/generated/studio-step-induction-600.webp"
+  },
+  "src/assets/images/generated/studio-step-induction-960.avif": {
+    "file": "assets/studio-step-induction-960-BtjWdzMP.avif",
+    "src": "src/assets/images/generated/studio-step-induction-960.avif"
+  },
+  "src/assets/images/generated/studio-step-induction-960.webp": {
+    "file": "assets/studio-step-induction-960-zdftzXxU.webp",
+    "src": "src/assets/images/generated/studio-step-induction-960.webp"
+  },
+  "src/assets/images/generated/studio-step-parting-600.avif": {
+    "file": "assets/studio-step-parting-600-BvbD3RqA.avif",
+    "src": "src/assets/images/generated/studio-step-parting-600.avif"
+  },
+  "src/assets/images/generated/studio-step-parting-600.jpg": {
+    "file": "assets/studio-step-parting-600-BguPGNn-.jpg",
+    "src": "src/assets/images/generated/studio-step-parting-600.jpg"
+  },
+  "src/assets/images/generated/studio-step-parting-600.webp": {
+    "file": "assets/studio-step-parting-600-Cza3LgMQ.webp",
+    "src": "src/assets/images/generated/studio-step-parting-600.webp"
+  },
+  "src/assets/images/generated/studio-step-parting-960.avif": {
+    "file": "assets/studio-step-parting-960-xBFdhJIf.avif",
+    "src": "src/assets/images/generated/studio-step-parting-960.avif"
+  },
+  "src/assets/images/generated/studio-step-parting-960.webp": {
+    "file": "assets/studio-step-parting-960-CQg5gpm7.webp",
+    "src": "src/assets/images/generated/studio-step-parting-960.webp"
+  },
+  "src/assets/images/generated/studio-step-weighing-600.avif": {
+    "file": "assets/studio-step-weighing-600-Cho8bvWo.avif",
+    "src": "src/assets/images/generated/studio-step-weighing-600.avif"
+  },
+  "src/assets/images/generated/studio-step-weighing-600.jpg": {
+    "file": "assets/studio-step-weighing-600-QHzJlu4L.jpg",
+    "src": "src/assets/images/generated/studio-step-weighing-600.jpg"
+  },
+  "src/assets/images/generated/studio-step-weighing-600.webp": {
+    "file": "assets/studio-step-weighing-600-DG9nfqw6.webp",
+    "src": "src/assets/images/generated/studio-step-weighing-600.webp"
+  },
+  "src/assets/images/generated/studio-step-weighing-960.avif": {
+    "file": "assets/studio-step-weighing-960-B_pbaR59.avif",
+    "src": "src/assets/images/generated/studio-step-weighing-960.avif"
+  },
+  "src/assets/images/generated/studio-step-weighing-960.webp": {
+    "file": "assets/studio-step-weighing-960-CgtdZzbP.webp",
+    "src": "src/assets/images/generated/studio-step-weighing-960.webp"
+  }
+}

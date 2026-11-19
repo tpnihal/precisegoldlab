@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Precise Gold Laboratory L.L.C. — Assay &amp; Bullion Insights</title>
+    <link>https://precisegoldlab.com/blog/</link>
+    <description>Technical briefings on Fire Assay (cupellation), XRF vs. destructive gold testing, hallmarked bullion verification, and scrap gold valuation in the Dubai Gold Souq.</description>
+    <language>en-ae</language>
+    <lastBuildDate>Thu, 19 Nov 2026 11:48:11 GMT</lastBuildDate>
+    <atom:link href="https://precisegoldlab.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Selling Scrap Gold in Dubai: What to Know Before You Sell</title>
+      <link>https://precisegoldlab.com/blog/selling-scrap-gold-in-dubai-guide/</link>
+      <guid isPermaLink="true">https://precisegoldlab.com/blog/selling-scrap-gold-in-dubai-guide/</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
+      <category>Scrap Gold &amp; Valuation</category>
+      <description>Learn how scrap gold is weighed, melted, fire-assayed and priced in Dubai Gold Souq so you receive the maximum payout for 18K, 21K, 22K and 24K gold.</description>
+    </item>
+    <item>
+      <title>How to Check Gold Purity in Dubai: Methods Compared</title>
+      <link>https://precisegoldlab.com/blog/how-to-check-gold-purity-dubai-methods-compared/</link>
+      <guid isPermaLink="true">https://precisegoldlab.com/blog/how-to-check-gold-purity-dubai-methods-compared/</guid>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Buyer &amp; Trader Guide</category>
+      <description>Compare Fire Assay cupellation, XRF fluorescence, specific gravity and acid touchstone testing in Dubai Gold Souq—accuracy, speed and best use cases.</description>
+    </item>
+    <item>
+      <title>What Is Fire Assay and Why Is It the Gold Standard?</title>
+      <link>https://precisegoldlab.com/blog/what-is-fire-assay-gold-standard/</link>
+      <guid isPermaLink="true">https://precisegoldlab.com/blog/what-is-fire-assay-gold-standard/</guid>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Fire Assay Science</category>
+      <description>Discover how the cupellation Fire Assay method works and why Dubai Gold Souq refiners, banks and bullion traders rely on it for exact gold purity.</description>
+    </item>
+  </channel>
+</rss>

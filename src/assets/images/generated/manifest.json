@@ -1,0 +1,281 @@
+{
+  "reception-logo-wall-gold-bar": {
+    "width": 408,
+    "height": 544,
+    "widths": [
+      408
+    ],
+    "fallback": "jpg",
+    "fallbackWidth": 408,
+    "color": "#f8f8e8"
+  },
+  "reception-counter": {
+    "width": 960,
+    "height": 1280,
+    "widths": [
+      480,
+      800,
+      960
+    ],
+    "fallback": "jpg",
+    "fallbackWidth": 800,
+    "color": "#080808"
+  },
+  "regal-sky-showroom-gold-bars": {
+    "width": 768,
+    "height": 1024,
+    "widths": [
+      480,
+      768
+    ],
+    "fallback": "jpg",
+    "fallbackWidth": 768,
+    "color": "#787868"
+  },
+  "regal-sky-logo": {
+    "width": 931,
+    "height": 1024,
+    "widths": [
+      240,
+      480
+    ],
+    "fallback": "png",
+    "fallbackWidth": 480,
+    "color": "#f8f8f8"
+  },
+  "lab-flasks-logo-wall": {
+    "width": 681,
+    "height": 1024,
+    "widths": [
+      480,
+      681
+    ],
+    "fallback": "jpg",
+    "fallbackWidth": 681,
+    "color": "#e8d8d8"
+  },
+  "fire-assay-flyer": {
+    "width": 776,
+    "height": 1024,
+    "widths": [
+      480,
+      776
+    ],
+    "fallback": "jpg",
+    "fallbackWidth": 776,
+    "color": "#080808"
+  },
+  "gold-solution-flasks": {
+    "width": 1024,
+    "height": 682,
+    "widths": [
+      480,
+      800,
+      1024
+    ],
+    "fallback": "jpg",
+    "fallbackWidth": 800,
+    "color": "#c8c8c8"
+  },
+  "fire-assay-equipment-room": {
+    "width": 1024,
+    "height": 682,
+    "widths": [
+      480,
+      800,
+      1024
+    ],
+    "fallback": "jpg",
+    "fallbackWidth": 800,
+    "color": "#d8d8d8"
+  },
+  "precise-cast-gold-bar": {
+    "width": 768,
+    "height": 1024,
+    "widths": [
+      480,
+      768
+    ],
+    "fallback": "jpg",
+    "fallbackWidth": 768,
+    "color": "#b8b8b8"
+  },
+  "precision-balance-gold-cornets": {
+    "width": 1024,
+    "height": 682,
+    "widths": [
+      480,
+      800,
+      1024
+    ],
+    "fallback": "jpg",
+    "fallbackWidth": 800,
+    "color": "#d8d8d8"
+  },
+  "gold-bar-weighing-scale": {
+    "width": 960,
+    "height": 1280,
+    "widths": [
+      480,
+      800,
+      960
+    ],
+    "fallback": "jpg",
+    "fallbackWidth": 800,
+    "color": "#080808"
+  },
+  "studio-hero-crucible": {
+    "width": 1600,
+    "height": 1000,
+    "widths": [
+      800,
+      1280
+    ],
+    "fallback": "jpg",
+    "fallbackWidth": 800,
+    "color": "#080808"
+  },
+  "studio-hero-bullion": {
+    "width": 1600,
+    "height": 1000,
+    "widths": [
+      800,
+      1280
+    ],
+    "fallback": "jpg",
+    "fallbackWidth": 800,
+    "color": "#080808"
+  },
+  "studio-regal-sky-atrium": {
+    "width": 1200,
+    "height": 960,
+    "widths": [
+      600,
+      960
+    ],
+    "fallback": "jpg",
+    "fallbackWidth": 600,
+    "color": "#080808"
+  },
+  "studio-bullion-vault": {
+    "width": 1200,
+    "height": 960,
+    "widths": [
+      480,
+      768
+    ],
+    "fallback": "jpg",
+    "fallbackWidth": 768,
+    "color": "#080808"
+  },
+  "studio-step-weighing": {
+    "width": 1200,
+    "height": 960,
+    "widths": [
+      600,
+      960
+    ],
+    "fallback": "jpg",
+    "fallbackWidth": 600,
+    "color": "#080808"
+  },
+  "studio-step-induction": {
+    "width": 1200,
+    "height": 960,
+    "widths": [
+      600,
+      960
+    ],
+    "fallback": "jpg",
+    "fallbackWidth": 600,
+    "color": "#080808"
+  },
+  "studio-step-cupellation": {
+    "width": 1200,
+    "height": 960,
+    "widths": [
+      600,
+      960
+    ],
+    "fallback": "jpg",
+    "fallbackWidth": 600,
+    "color": "#080808"
+  },
+  "studio-step-parting": {
+    "width": 1200,
+    "height": 960,
+    "widths": [
+      600,
+      960
+    ],
+    "fallback": "jpg",
+    "fallbackWidth": 600,
+    "color": "#080808"
+  },
+  "studio-step-certificate": {
+    "width": 1200,
+    "height": 960,
+    "widths": [
+      600,
+      960
+    ],
+    "fallback": "jpg",
+    "fallbackWidth": 600,
+    "color": "#080808"
+  },
+  "studio-scrap-melt": {
+    "width": 1200,
+    "height": 960,
+    "widths": [
+      600,
+      800
+    ],
+    "fallback": "jpg",
+    "fallbackWidth": 800,
+    "color": "#080808"
+  },
+  "studio-scale-bullion": {
+    "width": 1200,
+    "height": 960,
+    "widths": [
+      600,
+      800
+    ],
+    "fallback": "jpg",
+    "fallbackWidth": 800,
+    "color": "#080808"
+  },
+  "studio-scrap-jewelry": {
+    "width": 1200,
+    "height": 960,
+    "widths": [
+      600,
+      800
+    ],
+    "fallback": "jpg",
+    "fallbackWidth": 800,
+    "color": "#080808"
+  },
+  "studio-gold-settlement": {
+    "width": 1200,
+    "height": 960,
+    "widths": [
+      600,
+      800
+    ],
+    "fallback": "jpg",
+    "fallbackWidth": 800,
+    "color": "#080808"
+  },
+  "studio-bento-furnace": {
+    "width": 1200,
+    "height": 960,
+    "widths": [
+      600,
+      800
+    ],
+    "fallback": "jpg",
+    "fallbackWidth": 800,
+    "color": "#080808"
+  }
+}

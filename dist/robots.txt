@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Hostinger static production sitemap & RSS feed
+Sitemap: https://precisegoldlab.com/sitemap.xml
